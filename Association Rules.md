@@ -4,7 +4,7 @@
 关联规则（Association Rules）是一种广泛使用的模式识别方法
 目的是找到事物之间的联系
 
-#####判定事物关联的标准
+#####判定事物关联的标准 
 - Support ： *I*项的support意味着 含有*I*的basket 个数
 
   Support threshold：给出一个support threshold 那么比这个值高的support I项就叫做常见项
